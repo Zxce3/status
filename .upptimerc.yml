@@ -1,0 +1,48 @@
+# Change these first
+owner: zxce3 # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
+
+sites:
+  - name: Main Website
+    url: https://zxce3.net
+  - name: Blog
+    url: https://blog.zxce3.net
+  - name: API
+    url: https://api.zxce3.net
+  - name: Status
+    url: https://status.zxce3.net
+
+assignees: # Users to assign downtime issues (optional)
+  - Zxce3
+  
+user-agent: zxce3
+commitMessages:
+  commitAuthorName: "Mandakara Sadewa"
+  commitAuthorEmail: "mdswa@zxce3.net"
+
+commitMessages:
+  readmeContent: ":pencil: Update summary in README [skip ci] [upptime]"
+  summaryJson: ":card_file_box: Update status summary [skip ci] [upptime]"
+  statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
+  graphsUpdate: ":bento: Update graphs [skip ci] [upptime]"
+  
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: status.zxce3.net
+  baseUrl: /status
+  logoUrl: https://zxce3.net/img/logo-z.svg
+  name: Status - Zxce3
+  introTitle: "**Status** Monitor for zxce3"
+  introMessage: "This is the status page for zxce3, you can check the status of our services from here."
+  theme: ocean
+  favicon: https://zxce3.net/favicon.png
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
