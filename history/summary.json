@@ -4,17 +4,17 @@
     "url": "https://zxce3.net",
     "icon": "https://icons.duckduckgo.com/ip3/zxce3.net.ico",
     "slug": "main-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 240,
-    "timeWeek": 240,
-    "timeMonth": 240,
-    "timeYear": 240,
+    "time": 225,
+    "timeDay": 225,
+    "timeWeek": 225,
+    "timeMonth": 225,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://blog.zxce3.net",
     "icon": "https://icons.duckduckgo.com/ip3/blog.zxce3.net.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1015,
-    "timeDay": 1015,
-    "timeWeek": 1015,
-    "timeMonth": 1015,
-    "timeYear": 1015,
+    "time": 635,
+    "timeDay": 635,
+    "timeWeek": 635,
+    "timeMonth": 635,
+    "timeYear": 635,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.zxce3.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "4.96%",
-    "uptimeDay": "4.96%",
-    "uptimeWeek": "4.96%",
-    "uptimeMonth": "4.96%",
-    "uptimeYear": "4.96%",
-    "time": 191,
-    "timeDay": 191,
-    "timeWeek": 191,
-    "timeMonth": 191,
-    "timeYear": 191,
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
+    "time": 202,
+    "timeDay": 202,
+    "timeWeek": 202,
+    "timeMonth": 202,
+    "timeYear": 202,
     "dailyMinutesDown": {
-      "2022-11-03": 0
+      "2022-11-03": 8
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-03": 0
+      "2022-11-03": 8
     }
   }
 ]
