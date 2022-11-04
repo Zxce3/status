@@ -9,6 +9,8 @@ sites:
     url: https://blog.zxce3.net
   - name: API
     url: https://api.zxce3.net
+  - name: Files
+    url: https://files.zxce3.net
   - name: Status
     url: https://status.zxce3.net
 
