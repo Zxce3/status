@@ -31,7 +31,7 @@ status-website:
   name: Status - Zxce3
   introTitle: "**Status** Monitor for zxce3"
   introMessage: "This is the status page for zxce3, you can check the status of our services from here."
-  theme: ocean
+  theme: dark
   favicon: https://zxce3.net/favicon.png
   navbar:
     - title: Status
