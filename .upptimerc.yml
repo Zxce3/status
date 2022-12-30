@@ -34,7 +34,7 @@ status-website:
   introTitle: "**Status** Monitor for zxce3"
   introMessage: "This is the status page for zxce3, you can check the status of our services from here."
   theme: dark
-  favicon: https://zxce3.net/favicon.png
+  favicon: https://zxce3.net/img/favicon.png
   navbar:
     - title: Status
       href: /
