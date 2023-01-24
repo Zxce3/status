@@ -36,5 +36,6 @@ jobs:
         with:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
+          force_orphan: "false"
           user_name: "Mandakara Sadewa"
           user_email: "mdswa@zxce3.net"
