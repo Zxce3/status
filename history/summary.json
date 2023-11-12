@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zxce3.net.ico",
     "slug": "main-website",
     "status": "down",
-    "uptime": "71.36%",
+    "uptime": "71.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "13.91%",
-    "uptimeYear": "70.80%",
+    "uptimeYear": "70.53%",
     "time": 200,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 601,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2023-11-11": 26,
+      "2023-11-12": 29,
+      "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
@@ -144,7 +145,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.zxce3.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "68.72%",
+    "uptime": "68.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "13.93%",
@@ -155,7 +156,8 @@
     "timeMonth": 579,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-11-11": 26,
+      "2023-11-12": 29,
+      "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
@@ -270,8 +272,7 @@
       "2023-01-24": 281,
       "2022-12-30": 6,
       "2022-12-12": 11,
-      "2022-11-13": 773,
-      "2022-11-12": 1440
+      "2022-11-13": 773
     }
   },
   {
@@ -280,18 +281,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.zxce3.net.ico",
     "slug": "files",
     "status": "down",
-    "uptime": "71.25%",
+    "uptime": "71.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "13.93%",
-    "uptimeYear": "70.75%",
+    "uptimeYear": "70.47%",
     "time": 251,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 589,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2023-11-11": 26,
+      "2023-11-12": 29,
+      "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
@@ -425,7 +427,8 @@
     "timeMonth": 525,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2023-11-11": 78,
+      "2023-11-12": 87,
+      "2023-11-11": 4320,
       "2023-11-10": 4320,
       "2023-11-09": 4320,
       "2023-11-08": 4320,
@@ -665,8 +668,7 @@
       "2022-12-12": 32,
       "2022-11-17": 5,
       "2022-11-16": 12,
-      "2022-11-13": 773,
-      "2022-11-12": 1440
+      "2022-11-13": 773
     }
   }
 ]
